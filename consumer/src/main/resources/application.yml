@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: 192.168.0.128
+    port: 6379
+    password: 123456
